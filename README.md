@@ -28,6 +28,7 @@ In my free time, I tend to work on random projects -- some of which end up here!
 # 📖 Skills
 [![Skills](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![Skills](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c/language)
+[![Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![Skills](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
