@@ -35,7 +35,7 @@ In my free time, I tend to work on random projects -- some of which end up here!
 [![Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Skills](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![Skills](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)
-[![Skills](https://skillicons.dev/icons?i=vim)](https://vim.org)
+[![Skills](https://skillicons.dev/icons?i=vim)](vim.org)
 [![Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
