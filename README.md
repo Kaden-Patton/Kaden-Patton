@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kaden Patton, and I'm a student of Computer Science currently studying at Colorado State University. 
+My name is Kaden Patton, and I'm a graduate of Computer Science currently studying at Colorado State University. 
 
 I'm proficient in many technologies, and am always learning more! 
 
